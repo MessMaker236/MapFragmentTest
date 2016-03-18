@@ -14,7 +14,8 @@ import com.google.android.gms.maps.model.Marker;
 
 /**
  * Created by bm121 on 3/17/2016.
- * changed again
+ * changed again and again
+ * configuring the map
  */
 public class MapFragment extends SupportMapFragment implements GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener,
